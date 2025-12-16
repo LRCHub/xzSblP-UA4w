@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ハオ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-16T11:00:26.729454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハオ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ハオ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハオ",
+      "artist": "deco27",
+      "has_synced": true,
+      "path": "select/02_ハオ_deco27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハオ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_ハオ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハオ (好)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_ハオ_(好)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハオ (Hǎo)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ハオ_(Hǎo)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハオ",
+      "artist": "DECO＊27",
+      "has_synced": true,
+      "path": "select/06_ハオ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハオ",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/07_ハオ_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハオ - HAO",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/08_ハオ_-_HAO_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハオ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ハオ_DECO_27.txt"
+    }
+  ]
+}
